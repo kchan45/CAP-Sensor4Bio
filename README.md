@@ -28,4 +28,4 @@ This repostiory contains:
 
 * `data` includes subdirectories that contain the raw data, processed data, and final ML model training/validation/testing datasets.
 
-**Note: While this work is under review, this repository is subject to change. Only changes made to increase user-friendly-ness will be made; no changes will be made to the results of the work.**
+**Note: While this work is under review, this repository is subject to change. Only changes made to increase user-friendliness will be made; no changes will be made to the results of the work.**
